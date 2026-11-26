@@ -97,7 +97,14 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex flex-wrap items-center space-x-6 text-sm text-gray-400">
               <span>&copy; 2025 Digitalglim Solutions. All rights reserved.</span>
-              <a href="https://salescentri.com/trust/security-privacy" className="hover:text-orange-400 transition-colors">Privacy Policy</a>
+              <a
+                href="/privacy-policy"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-orange-400 transition-colors"
+              >
+                Privacy Policy
+              </a>
               <a href="https://salescentri.com/trust/compliance-certifications" className="hover:text-orange-400 transition-colors">Terms of Service</a>
             </div>
             <div className="text-sm text-gray-400">
