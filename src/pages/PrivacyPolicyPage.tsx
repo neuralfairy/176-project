@@ -14,7 +14,7 @@ const PrivacyPolicyPage = () => {
               href="https://projectconsultantsusa.com/"
               className="text-orange-400 hover:text-orange-300 underline"
             >
-              https://projectconsultantsusa.com/
+              ProjectConsultantsUSA – Expert CRM Implementation
             </a>
           </p>
         </div>
